@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="k.abdul gani sakib" content="width=device-width, initial-scale=1.0"/>
+  <title>RESUME</title>
+
+  <style>
+    *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+      font-family: Arial, sans-serif;
+    }
+
+    body{
+      background:#f4f4f4;
+      padding:20px;
+    }
+
+    .resume{
+      max-width:800px;
+      background:#fff;
+      margin:auto;
+      padding:30px;
+      border-radius:10px;
+      box-shadow:0 0 10px rgba(0,0,0,0.1);
+    }
+
+    .header{
+      text-align:center;
+      margin-bottom:25px;
+    }
+
+    .header h1{
+      color:#222;
+      font-size:34px;
+      margin-bottom:10px;
+    }
+
+    .header p{
+      color:#555;
+      font-size:15px;
+      line-height:1.6;
+    }
+
+    .section{
+      margin-bottom:25px;
+    }
+
+    .section h2{
+      background:#222;
+      color:#fff;
+      padding:8px 12px;
+      border-radius:5px;
+      margin-bottom:12px;
+      font-size:20px;
+    }
+
+    .section p,
+    .section li{
+      color:#444;
+      line-height:1.8;
+      font-size:15px;
+    }
+
+    ul{
+      padding-left:20px;
+    }
+
+    .edu-item,
+    .project-item{
+      margin-bottom:15px;
+    }
+
+    .footer{
+      text-align:center;
+      margin-top:20px;
+      color:#777;
+      font-size:14px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="resume">
+
+    <div class="header">
+      <h1>K Abdul Gani Sakib</h1>
+      <p>
+        Email: sakib@gmail.com | Phone: +91 9876543210 <br>
+        Address: Karnataka, India
+      </p>
+    </div>
+
+    <div class="section">
+      <h2>Career Objective</h2>
+      <p>
+        Motivated and enthusiastic fresher seeking an opportunity to start my career
+        and enhance my skills in a professional environment while contributing to
+        the growth of the organization.
+      </p>
+    </div>
+
+    <div class="section">
+      <h2>Education</h2>
+
+      <div class="edu-item">
+        <p><strong>Bachelor Degree</strong></p>
+        <p>XYZ College, Karnataka</p>
+        <p>2022 - 2026</p>
+      </div>
+
+      <div class="edu-item">
+        <p><strong>Higher Secondary</strong></p>
+        <p>ABC School</p>
+        <p>Completed in 2022</p>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Skills</h2>
+      <ul>
+        <li>HTML & CSS</li>
+        <li>Basic JavaScript</li>
+        <li>Communication Skills</li>
+        <li>Teamwork</li>
+        <li>Problem Solving</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Projects</h2>
+
+      <div class="project-item">
+        <p><strong>Personal Portfolio Website</strong></p>
+        <p>
+          Developed a simple responsive portfolio website using HTML and CSS.
+        </p>
+      </div>
+
+      <div class="project-item">
+        <p><strong>Student Management System</strong></p>
+        <p>
+          Created a mini project for managing student details using basic programming concepts.
+        </p>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Languages</h2>
+      <ul>
+        <li>English</li>
+        <li>Hindi</li>
+        <li>Urdu</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Declaration</h2>
+      <p>
+        I hereby declare that the above information is true and correct to the best of my knowledge.
+      </p>
+    </div>
+
+    <div class="footer">
+      <p>© 2026 K Abdul Gani Sakib</p>
+    </div>
+
+  </div>
+
+</body>
+</html>
