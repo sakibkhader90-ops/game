@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+
+    <style>
+        body{
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            height:100vh;
+            background:#f4f4f4;
+            font-family:Arial, sans-serif;
+        }
+
+        a{
+            text-decoration:none;
+            background:#007bff;
+            color:white;
+            padding:15px 30px;
+            border-radius:10px;
+            font-size:22px;
+            transition:0.3s;
+        }
+
+        a:hover{
+            background:#0056b3;
+        }
+    </style>
+</head>
+<body>
+
+    <a href="#">
+        My Resume - K. Abdul Gani Sakib
+    </a>
+
+</body>
+</html>
